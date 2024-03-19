@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/lap.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "BlackJack game 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This is a model of a blackjack game. The Twenty-one Card game is a game whose objective is to be dealt cards with a higher count than those of the dealer, up to but not exceeding 21. The dealer selects different cards, starting with two cards first and then one card until the deal is complete.",
+    url: "https://github.com/Ronnie5562/BlackJack-game",
   },
   {
-    title: "Web Development for Beginners",
+    title: "QR Code Generator",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A QR Code Generator is a web application that allows users to generate QR codes. QR codes are two-dimensional barcodes that can be scanned using a smartphone or QR code reader to quickly access information or websites. This project provides a simple and easy-to-use interface for generating QR codes with custom data.",
+    url: "https://github.com/Ronnie5562/QR-code-generator",
   },
   {
-    title: "My Resume Site",
+    title: "Netflix Clone with JavaScript",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "This is a Netflix clone built with JavaScript. It replicates the user interface and functionality of the Netflix website, allowing users to browse and watch movies and TV shows. The project demonstrates the use of HTML, CSS, and JavaScript to create a responsive and interactive web application.",
+    url: "https://github.com/Ronnie5562/Netflix-clone-with-js",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Superhero Search App",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "This web app allows users to search for their favorite superhero and view pretty cool stuffs about them.",
+    url: "https://github.com/Ronnie5562/Superhero-App",
   },
 ];
 
